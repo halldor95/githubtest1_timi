@@ -1,0 +1,21 @@
+
+body
+{
+	margin: 0 auto;
+	width: 960px;
+}
+
+#player
+{
+
+	display: none;
+}
+#enemy
+{
+	display: none;
+
+}
+#background
+{
+	display: none;
+}
